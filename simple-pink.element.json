@@ -1,0 +1,8 @@
+{
+    "name": "Simple Pink",
+    "is_dark": true,
+    "colors": {
+        "accent": "#D882AF",
+        "accent-color": "#FEB4DB"
+    }
+}
